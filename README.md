@@ -1,16 +1,13 @@
 ### Hi there, I'm Dinesh Yadav! 👋
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 I am a **Full Stack Developer** specializing in **Back-End Development**, with expertise in the **MERN Stack, TypeScript, Docker, Kubernetes, and Microservices**. I love building scalable systems, exploring **System Design**, and solving **LeetCode** problems. Currently, I am developing **Cloudzee**, a cloud file management platform. 🚀
 
 ### 💡 About Me
 - 🎓 **Pre-final Year CSE Student** at **IIIT Vadodara (ICD)**.
 - 🛠 **Tech Stack:** MERN, Next.js, TypeScript, Nest.js, Docker, Kubernetes, CI/CD.
 - 📚 **Learning:** System Design, Machine Learning, DevOps.
-- 🔧 **Working on:** Cloudzee ☁️, a browser extension 🧩.
+- 🔧 **Working on:** Cloudzee, a cloud file management system.
 - 💬 Ask me about **Backend Development, APIs, Databases, and Scaling Systems**.
-- ⚡ **Fun Fact:** I love **traveling** and **entrepreneurship**.
 
 ### 📈 GitHub Stats
 <p align="center">
