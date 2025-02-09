@@ -14,8 +14,8 @@ I am a **Full Stack Developer** specializing in **Back-End Development**, with e
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshyadav-cs&show_icons=true&theme=radical" alt="Dinesh's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshyadav-cs&theme=radical" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uvyadav04&show_icons=true&theme=radical" alt="Dinesh's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvyadav04&theme=radical" alt="GitHub Streak" width="49%"/>
 </p>
 
 ### 🛠 Tech Stack
