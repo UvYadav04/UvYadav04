@@ -21,12 +21,9 @@ I am a **Full Stack Developer** specializing in **Back-End Development**, with e
 </p>
 
 ### 🌱 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dineshyadav-cs) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://dineshyadav.dev) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/dineshyadav-cs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/dineshyadav-cs](https://www.linkedin.com/in/dinesh-yadav-264113265/)) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)]([https://dineshyadav.dev](https://dineshyadav.onrender.com/)) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/dineshnirban01)
 
-### ⚡ Fun Projects
-- 🌍 **Cloudzee:** Cloud File Management Web App [🚀 Live Soon]
-- 🧩 **Browser Extension:** Debugging and Refining
 
 Thanks for stopping by! ⭐ Let's connect and build something awesome. 🚀
